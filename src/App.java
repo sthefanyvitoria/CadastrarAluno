@@ -66,9 +66,9 @@ public class App {
     
     public static void adicionarAlunos(List<Aluno> alunos) throws AlunoNaoEncontradoException, MatriculaInvalidaException {
         alunos.add(new Aluno("Pedro", "1234567890"));
-        alunos.add(new Aluno("Arthur", "3435496343"));
-        alunos.add(new Aluno("Marina", "2352354242"));
-        alunos.add(new Aluno("Alice", "4353443243"));
-        alunos.add(new Aluno("Aline", "3454543523"));
+        alunos.add(new Aluno("Arthur", "3435363738"));
+        alunos.add(new Aluno("Marina", "1122334455"));
+        alunos.add(new Aluno("Alice", "0001112223"));
+        alunos.add(new Aluno("Aline", "9988776655"));
     }
 }
